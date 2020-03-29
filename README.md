@@ -1,6 +1,6 @@
 # COVID_Update
 ## Description:
-A script to send an SMS to a number if there is a change in the country's COVID statistics. A fun project while being quarantined due to the novel disease.
+A script to send an SMS to a number if there is a change in the country's COVID statistics. A project taken up while being quarantined due to the novel disease.
 ## Credits:
 Data obtained from <a href=https://www.covid19india.org>a crowd sourced website</a>
 
